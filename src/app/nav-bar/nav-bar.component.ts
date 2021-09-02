@@ -28,4 +28,5 @@ export class NavBarComponent implements OnInit {
     this.router.navigate(['/login']);
   }
 }
-// this is my comment
+// 
+//i am removing the uppper comment
